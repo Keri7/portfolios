@@ -11,6 +11,12 @@ const WIZARDS = [
     designerType: "interaction",
     website: "https://starwars.fandom.com/wiki/Luke_Skywalker"
   },
+    {
+    name: "Keri",
+    imageLink: "https://www.zintro.com/profilePicture/Keri-Fullwood.jpeg",
+    designerType: "product",
+    website: "http://www.kerifullwood.com"
+  },
 ]
 
 const WIZARDTYPES = {
